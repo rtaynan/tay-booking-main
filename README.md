@@ -7,7 +7,7 @@ Follow these steps to run the project:
 
 1. Navigate to the project directory:
     ```bash
-    cd booking-service
+    cd tay-booking-main
     ```
 
 2. Clean and install the Maven dependencies:
@@ -15,15 +15,11 @@ Follow these steps to run the project:
     mvn clean install
     ```
 
-3. Build the Docker containers:
+3. Run the application:
     ```bash
-    docker-compose build
+    mvn spring-boot:run
     ```
 
-4. Start the Docker containers:
-    ```bash
-    docker-compose up
-    ```
 
 The project should now be running and accessible. You can access it at [http://localhost:8080](http://localhost:8080).
 
