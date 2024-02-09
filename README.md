@@ -25,4 +25,4 @@ The project should now be running and accessible. You can access it at [http://l
 
 ## Swagger UI
 
-You can access the Swagger UI to explore the API endpoints by navigating to [http://localhost:8080#](http://localhost:8080#).
+You can access the Swagger UI to explore the API endpoints by navigating to [http://localhost:8080](http://localhost:8080).
